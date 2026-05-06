@@ -110,7 +110,7 @@ The interactive demo loads pretrained models and classifies satellite image patc
 ### Pretrained Models
 Model weights are stored on Google Drive (too large for GitHub):
 
-📦 [Download Pretrained Models](YOUR_GOOGLE_DRIVE_LINK)
+📦 [Download Pretrained Models](https://drive.google.com/drive/folders/1oOr8iSfShsO_OCS3pWQxAID9qkkoAKB9?usp=sharing)
 
 After downloading, place files in the appropriate `models/` folder before running notebooks.
 
